@@ -1,2 +1,4 @@
 g++ first.cpp 
 ./a.out
+
+Write an interactive program that plays a game of Hangman. Store the word to be guessed in successive elements of an array of individual characters called mysteryWorld. The program terminates when all letter are guessed correctly (the player wins) or a specified number (say 6) of incorrect guesses are made (the computer wins).
