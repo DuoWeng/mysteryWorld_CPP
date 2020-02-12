@@ -1,0 +1,31 @@
+Please guess a four letters Word. You have six chances.
+The word is: *****
+Please try to guess: g
+Misses: g
+The word is: *****
+Please try to guess: m
+Misses: gm
+The word is: *****
+Please try to guess: u
+Misses: gmu
+The word is: *****
+Please try to guess: i
+Misses: gmui
+The word is: *****
+Please try to guess: h
+Misses: gmui
+The word is: h****
+Please try to guess: e
+The computer win!Play it again.
+
+
+Please guess a four letters Word. You have six chances.
+The word is: *****
+Please try to guess: h
+The word is: h****
+Please try to guess: e
+The word is: he***
+Please try to guess: l
+The word is: hell*
+Please try to guess: o
+You got it! The Word is hello
